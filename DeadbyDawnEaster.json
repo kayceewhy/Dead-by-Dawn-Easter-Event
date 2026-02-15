@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Easter Event",
-	"Version": 1771195671,
+	"Version": 1771196586,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2174,7 +2174,7 @@
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"0",
 				"9"
