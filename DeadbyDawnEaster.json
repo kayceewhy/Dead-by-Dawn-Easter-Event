@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Easter Event",
-	"Version": 1771196586,
+	"Version": 1771965119,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -227,11 +227,13 @@
 				"246",
 				"44",
 				"261",
+				"50",
 				"51",
 				"54",
 				"61",
 				"65",
-				"92"
+				"92",
+				"112"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
