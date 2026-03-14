@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Easter Event",
-	"Version": 1771965119,
+	"Version": 1773508768,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1175,7 +1175,10 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1
+					]
 				},
 				"Key": {
 					"Addons": []
